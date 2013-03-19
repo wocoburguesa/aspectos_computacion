@@ -1,0 +1,15 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{enumitem}
+\usepackage{graphicx}
+
+\title{Hitos matemáticos en la historia de la computación}
+\author{\textbf{Marco Flores Nuñez}}
+
+\begin{document}
+\maketitle
+
+\section{Historia de los lenguajes de programación}
+
+\end{document}
